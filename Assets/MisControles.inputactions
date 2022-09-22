@@ -1,0 +1,88 @@
+{
+    "name": "MisControles",
+    "maps": [
+        {
+            "name": "Exploracion",
+            "id": "af104f97-47d1-47c1-836f-d70dc7091ef4",
+            "actions": [
+                {
+                    "name": "Salto",
+                    "type": "Button",
+                    "id": "9b11872f-17bc-4443-ba0a-1fdb9d5bd48f",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "Control",
+                    "type": "Value",
+                    "id": "3454b90d-6229-4436-8dd1-123d5b737028",
+                    "expectedControlType": "Vector2",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "70a4ce3f-143f-434d-a796-f2cf9a72e48b",
+                    "path": "<Keyboard>/space",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "MiJuego",
+                    "action": "Salto",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "7a2323ea-8dd8-4379-898b-2cf6306f66aa",
+                    "path": "<Gamepad>/leftStick",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "MiJuego",
+                    "action": "Control",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        },
+        {
+            "name": "BatallasRPG",
+            "id": "4de5325b-c6cb-4ed5-9ce4-bc7aa0a0cc51",
+            "actions": [
+                {
+                    "name": "Confirmar Accion",
+                    "type": "Button",
+                    "id": "cbd11b4d-b85d-45d2-8c99-5ff46e9dea8c",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "efbd9295-c575-4f38-9bd4-55ec6a2b6c54",
+                    "path": "<Keyboard>/space",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "MiJuego",
+                    "action": "Confirmar Accion",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": [
+        {
+            "name": "MiJuego",
+            "bindingGroup": "MiJuego",
+            "devices": []
+        }
+    ]
+}
