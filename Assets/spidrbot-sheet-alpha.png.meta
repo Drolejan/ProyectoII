@@ -1,0 +1,1027 @@
+fileFormatVersion: 2
+guid: 05485beddf3aba943ac6aeb7075e7305
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 30
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: spidrbot-sheet-alpha_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 310
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29598e00aebe14245aa1cbbfd4dae7c2
+      internalID: 918708268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spidrbot-sheet-alpha_1
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 310
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af7ba35e2d36cbe41a726c2f0edeff70
+      internalID: 878934829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spidrbot-sheet-alpha_2
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 310
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bf18c48f3515e348b68989dc0b656b2
+      internalID: -1192767939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spidrbot-sheet-alpha_3
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 310
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11b823e5caec24a4996690e95eebc721
+      internalID: 1158556465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spidrbot-sheet-alpha_4
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 310
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6acc6c1cc4a0d964babf2f6612d5e0d3
+      internalID: -981273732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spidrbot-sheet-alpha_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 268
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40bc0f4cf2ad47f4e98a31a3d0e65608
+      internalID: 1258501824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spidrbot-sheet-alpha_6
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 268
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03e0e97ba361e6d4b832ac828be20ae8
+      internalID: -140237171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spidrbot-sheet-alpha_7
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 268
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4968c27bce097d742aa20cdfff64fb52
+      internalID: -1392508387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spidrbot-sheet-alpha_8
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 268
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e87dd6ad348fcb54d92f3a5487190c8b
+      internalID: 51195524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spidrbot-sheet-alpha_9
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 268
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1648fa8166a6a284dace8eb0a6a0a7dc
+      internalID: 553270864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spidrbot-sheet-alpha_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 226
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e0e6ef408d9b29419b5f00b6e50e664
+      internalID: 1603654564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spidrbot-sheet-alpha_11
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 226
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3130f11e185a4c749b68af66625f040c
+      internalID: 1141654973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spidrbot-sheet-alpha_12
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 226
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76891ea8f1f6b8947bb6b33981ed309e
+      internalID: 1050388255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spidrbot-sheet-alpha_13
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 226
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d425d06d4d739ac47a990a367508e6ed
+      internalID: -989579023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spidrbot-sheet-alpha_14
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 226
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d8b7832004ee904fb437731a5dcd11d
+      internalID: 242624931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spidrbot-sheet-alpha_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 184
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a65f6c770a072944b54edbd6b52d586
+      internalID: -896325970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spidrbot-sheet-alpha_16
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 184
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c6e09ff4f2610d4d86e4ca023e0222e
+      internalID: -1327499603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spidrbot-sheet-alpha_17
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 184
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cb63f5b2983f744b97c1c3df0e29a72
+      internalID: 522134642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spidrbot-sheet-alpha_18
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 184
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efef9022ec9665543976633642bdd5a3
+      internalID: 1138197627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spidrbot-sheet-alpha_19
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 184
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b276575dda2c38f4f9bb41a74023550a
+      internalID: 1403372869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spidrbot-sheet-alpha_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 142
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c908ccd6ca18434bad1808d8a28b3a0
+      internalID: -1613179198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spidrbot-sheet-alpha_21
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 142
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ab25838007fb0f4a9e76a77a0e42225
+      internalID: -1327856255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spidrbot-sheet-alpha_22
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 142
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eafe71c2e24490642816fca75b5e9ed5
+      internalID: 566922471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spidrbot-sheet-alpha_23
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 142
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c661656853583146b1a849f240c6e12
+      internalID: 101480533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spidrbot-sheet-alpha_24
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 142
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0201a3a7ff63e4e43837654693683622
+      internalID: 208539049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spidrbot-sheet-alpha_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 100
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b92a76feb3eaf24e9e5c643c4e9dc37
+      internalID: -1636891844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spidrbot-sheet-alpha_26
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 100
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 564ccd3aedf26854383283afd1210dc5
+      internalID: 1572037549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spidrbot-sheet-alpha_27
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 100
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a47d3e22e89d6c1458be21a74e36579d
+      internalID: -1760196639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spidrbot-sheet-alpha_28
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 100
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d1189fcff91d11479f0d2f0514970b6
+      internalID: -581377950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spidrbot-sheet-alpha_29
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 100
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6323987d5d7e7348be121845fc231b3
+      internalID: -1827220742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spidrbot-sheet-alpha_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 58
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbc40c757d806a84faea357cc10432b5
+      internalID: 1719619559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spidrbot-sheet-alpha_31
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 58
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13b2753c2b707684fbd13189841ee491
+      internalID: -1542835644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spidrbot-sheet-alpha_32
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 58
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3530fba03b20ead4ea9c76c1690156e1
+      internalID: -627321788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spidrbot-sheet-alpha_33
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 58
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7e474423e90d4b418853dc11d1eb4c9
+      internalID: -746890984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spidrbot-sheet-alpha_34
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 58
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2df06701f89c54a4d932c6603df7d1a0
+      internalID: 603428895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spidrbot-sheet-alpha_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bac5f0a190b25f439faea2fba0e72ed
+      internalID: -865524462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spidrbot-sheet-alpha_36
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 16
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c12d0e03438ddc84683a794ebc49497f
+      internalID: 1081665325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spidrbot-sheet-alpha_37
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 16
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b766bd00e66aaea439754612406067f4
+      internalID: 587956018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spidrbot-sheet-alpha_38
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 16
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4415ae99b1b3cc445b0faaabf93eec7e
+      internalID: -2091353599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spidrbot-sheet-alpha_39
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 16
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 813a08efd6ea4914e9d082a599572f68
+      internalID: -1234993382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      spidrbot-sheet-alpha_33: -746890984
+      spidrbot-sheet-alpha_29: -1827220742
+      spidrbot-sheet-alpha_5: 1258501824
+      spidrbot-sheet-alpha_2: -1192767939
+      spidrbot-sheet-alpha_10: 1603654564
+      spidrbot-sheet-alpha_3: 1158556465
+      spidrbot-sheet-alpha_21: -1327856255
+      spidrbot-sheet-alpha_22: 566922471
+      spidrbot-sheet-alpha_6: -140237171
+      spidrbot-sheet-alpha_25: -1636891844
+      spidrbot-sheet-alpha_23: 101480533
+      spidrbot-sheet-alpha_37: 587956018
+      spidrbot-sheet-alpha_4: -981273732
+      spidrbot-sheet-alpha_39: -1234993382
+      spidrbot-sheet-alpha_17: 522134642
+      spidrbot-sheet-alpha_11: 1141654973
+      spidrbot-sheet-alpha_9: 553270864
+      spidrbot-sheet-alpha_1: 878934829
+      spidrbot-sheet-alpha_30: 1719619559
+      spidrbot-sheet-alpha_26: 1572037549
+      spidrbot-sheet-alpha_31: -1542835644
+      spidrbot-sheet-alpha_0: 918708268
+      spidrbot-sheet-alpha_36: 1081665325
+      spidrbot-sheet-alpha_8: 51195524
+      spidrbot-sheet-alpha_19: 1403372869
+      spidrbot-sheet-alpha_20: -1613179198
+      spidrbot-sheet-alpha_34: 603428895
+      spidrbot-sheet-alpha_27: -1760196639
+      spidrbot-sheet-alpha_28: -581377950
+      spidrbot-sheet-alpha_7: -1392508387
+      spidrbot-sheet-alpha_12: 1050388255
+      spidrbot-sheet-alpha_14: 242624931
+      spidrbot-sheet-alpha_16: -1327499603
+      spidrbot-sheet-alpha_35: -865524462
+      spidrbot-sheet-alpha_13: -989579023
+      spidrbot-sheet-alpha_24: 208539049
+      spidrbot-sheet-alpha_15: -896325970
+      spidrbot-sheet-alpha_38: -2091353599
+      spidrbot-sheet-alpha_18: 1138197627
+      spidrbot-sheet-alpha_32: -627321788
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
