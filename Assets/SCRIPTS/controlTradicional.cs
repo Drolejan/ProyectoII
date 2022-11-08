@@ -3,12 +3,15 @@ using System.Collections.Generic;
 using UnityEditor;
 using UnityEngine;
 using UnityEngine.InputSystem;
+using UnityEngine.Playables;
+using UnityEngine.Timeline;
 
 public class controlTradicional : MonoBehaviour
 {
     Rigidbody2D rb;
     public float playerSpeed;
     PlayerInput misInputs;
+    [SerializeField] PlayableDirector cut1;
     // Start is called before the first frame update
     void Start()
     {
@@ -26,6 +29,14 @@ public class controlTradicional : MonoBehaviour
             Instantiate(bala, transform.position, Quaternion.identity);
         }
       
+    }
+
+    private void OnTriggerEnter2D(Collider2D collision)
+    {
+        if (collision.gameObject.CompareTag("cutscene1"))
+        {
+            cut1.Play();
+        }
     }
 
 }
