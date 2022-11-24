@@ -2058,3 +2058,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 25614a83bd565114ea6409e486b55c17, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  decklist:
+  - 0
+  - 1
+  - 2
+  - 3
+  - 4
