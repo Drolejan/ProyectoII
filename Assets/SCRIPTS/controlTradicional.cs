@@ -12,11 +12,13 @@ public class controlTradicional : MonoBehaviour
     public float playerSpeed;
     PlayerInput misInputs;
     [SerializeField] PlayableDirector cut1;
+    Transform laMira;
     // Start is called before the first frame update
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
         misInputs = GetComponent<PlayerInput>();
+        laMira= GameObject.Find("Mira").GetComponent<Transform>();
     }
     public GameObject bala;
     void Update()
@@ -26,7 +28,7 @@ public class controlTradicional : MonoBehaviour
 
         if (misInputs.actions["Disparo"].WasPressedThisFrame())
         {
-            Instantiate(bala, transform.position, Quaternion.identity);
+            Instantiate(bala, laMira.position, laMira.rotation);
         }
       
     }
